@@ -1,0 +1,16 @@
+:root{
+	--background:#131313;
+	--font-family:Arial;
+	--boxground:#E6E8FA;
+}
+body{
+	background-color:var(--background);
+	font-family:var(--font-family);
+}
+#link,#box{
+	background-color:var(--boxground);
+	border-style: double;
+	width: 50%;
+	height: 50%;
+	margin:10px;
+}
