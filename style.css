@@ -11,6 +11,9 @@ body{
 	background-color:var(--boxground);
 	border-style: double;
 	width: 50%;
-	height: 50%;
+	height: 30%;
 	margin:10px;
+}
+.menubar{
+	border-color: border-color: coral;
 }
